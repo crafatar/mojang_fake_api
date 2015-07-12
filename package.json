@@ -1,0 +1,19 @@
+{
+  "name": "mojang_fake_api",
+  "version": "1.0.0",
+  "description": "An ultra simple web server that fakes Mojang's API for sessions, skins, and textures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crafatar/mojang_fake_api"
+  },
+  "author": "jomo",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/crafatar/mojang_fake_api/issues"
+  },
+  "homepage": "https://github.com/crafatar/mojang_fake_api"
+}
